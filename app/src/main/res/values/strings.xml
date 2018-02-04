@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Madun</string>
+    <string-array name="fakultas">
+        <item>Universitas Kuningan</item>
+        <item>Fakultas Ilmu Komputer</item>
+        <item>Fakultas Hukum</item>
+        <item>Fakultas Kehutanan</item>
+        <item>Fakultas Ekonomi</item>
+        <item>Fakultas Keguruan dan Ilmu Pendidikan</item>
+        <item>Pasca Sarjana</item>
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
